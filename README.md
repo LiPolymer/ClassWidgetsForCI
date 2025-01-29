@@ -1,8 +1,8 @@
-# ClassIsland 插件示例
+﻿# ClassIsland 插件示例
 本示例展示了 ClassIsland 插件的大致写法
 
 ## 如何使用
-> TIP
+> [!TIP]
 >
 > 教程可在 [ClassIsland 官网](https://classisland.tech/)查看开发文档或[点击此链接](https://docs.classisland.tech/)
 
