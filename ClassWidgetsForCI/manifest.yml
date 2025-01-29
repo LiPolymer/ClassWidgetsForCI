@@ -1,0 +1,8 @@
+id: ink.lipoly.ext.cwcii
+name: Class Widgets
+description: 神奇的Class Widgets插件(逃
+entranceAssembly: "ClassWidgetsForCI.dll"
+url: https://github.com/LiPolymer/
+version: 0.0.0.0
+apiVersion: 1.5.0
+author: LiPolymer
